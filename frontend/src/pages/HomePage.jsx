@@ -120,7 +120,7 @@ const HomePage = () => {
                 No recommendations available
               </h3>
               <p className="text-base-content opacity-70">
-                Check back later for new reccomendations!
+                Check back later for new recommendations!
               </p>
             </div>
           ) : (

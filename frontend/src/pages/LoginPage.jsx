@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { TvMinimalPlay } from "lucide-react";
+import { ShipWheelIcon } from "lucide-react";
 import { Link } from "react-router";
 import useLogin from "../hooks/useLogin.js";
 
